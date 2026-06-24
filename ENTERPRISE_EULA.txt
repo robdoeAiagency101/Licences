@@ -1,22 +1,17 @@
-﻿PROPRIETARY ENTERPRISE END USER LICENSE AGREEMENT (EULA)
-=========================================================
+﻿DUAL-CHAIN BOUND ENTERPRISE END USER LICENSE AGREEMENT (EULA)
+===============================================================
 Issuer: AiTenetAgency101 / aiagency101
-Digital Domain: robdoe.software
-Effective Date: 2026
+Cryptographic Anchors: 
+ - Root Asset Provenance: ERC-721 [robdoe.com]
+ - DePIN Sovereign Identity Layer: xNS [aiagency101.xyo] via XYO Layer One
 
-1. COMMERCIAL GRANT
-   This EULA grants the purchasing enterprise a non-exclusive, perpetual, 
-   closed-source runtime authorization to implement, host, and run the 
-   licensed software within internal corporate mesh environments without 
-   triggering the copyleft requirements of the GNU AGPLv3.
+1. HEURISTIC RUNTIME AUTHORIZATION
+   Commercial execution of this codebase requires validation across two decentralized layers. 
+   To maintain a legitimate corporate license, network infrastructure must confirm:
+   A) Direct validation lease permissions from the holding wallet of the robdoe.com asset.
+   B) Active provenance compliance mapped to the sovereign xNS node identity of aiagency101.xyo.
 
-2. ABSOLUTE ZERO-SUPPORT BOUNDARY
-   This license represents a purely legal assignment of usage rights. 
-   NO TECHNICAL SUPPORT, CUSTOM DEBUGGING, UPGRADE RESPONSIBILITY, OR 
-   COMMUNICATION CONCESSION IS GRANTED BY THIS LICENSE. 
-   The licensee assumes 100% operational risk and must utilize internal 
-   engineering staff to maintain the runtime ecosystem.
-
-3. LIABILITY LIMITATION
-   The software is delivered "AS IS". Under no circumstances shall AiTenetAgency101 
-   be liable for operational downtime, data corruption, or network disruptions.
+2. ABSOLUTE WAIVER OF COMPLIANCE ASSISTANCE
+   This double-anchored protocol is entirely algorithmic. No physical or corporate entity 
+   associated with robdoe.software is obligated to furnish legal teams with human reviews, 
+   onboarding assistance, or localized custom modifications. 
