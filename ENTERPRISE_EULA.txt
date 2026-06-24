@@ -1,0 +1,22 @@
+﻿PROPRIETARY ENTERPRISE END USER LICENSE AGREEMENT (EULA)
+=========================================================
+Issuer: AiTenetAgency101 / aiagency101
+Digital Domain: robdoe.software
+Effective Date: 2026
+
+1. COMMERCIAL GRANT
+   This EULA grants the purchasing enterprise a non-exclusive, perpetual, 
+   closed-source runtime authorization to implement, host, and run the 
+   licensed software within internal corporate mesh environments without 
+   triggering the copyleft requirements of the GNU AGPLv3.
+
+2. ABSOLUTE ZERO-SUPPORT BOUNDARY
+   This license represents a purely legal assignment of usage rights. 
+   NO TECHNICAL SUPPORT, CUSTOM DEBUGGING, UPGRADE RESPONSIBILITY, OR 
+   COMMUNICATION CONCESSION IS GRANTED BY THIS LICENSE. 
+   The licensee assumes 100% operational risk and must utilize internal 
+   engineering staff to maintain the runtime ecosystem.
+
+3. LIABILITY LIMITATION
+   The software is delivered "AS IS". Under no circumstances shall AiTenetAgency101 
+   be liable for operational downtime, data corruption, or network disruptions.

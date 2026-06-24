@@ -1,20 +1,18 @@
-﻿THE "PROOF-OF-BUG" (Ps) DEVELOPER LICENSE
+﻿GNU AFFERO GENERAL PUBLIC LICENSE (AGPLv3)
 ==========================================
 Copyright (c) 2026 AiTenetAgency101 / aiagency101 (robdoe.software)
 
-1. GRANT OF RUNTIME RIGHTS
-   You maintain full permissions to execute, fork, scale, and structurally modify 
-   this codebase for solo, agency, or enterprise utility.
+This program is free software: you can redistribute it and/or modify it under 
+the terms of the GNU Affero General Public License as published by the Free 
+Software Foundation, version 3.
 
-2. COGNITIVE PROTECTION & COMMUNICATION GATEWAY RESTRICTION
-   By pulling down, implementing, or running this code within your network mesh, 
-   you explicitly forfeit any right to access the attention, communication lines, 
-   support inbox, or direct messaging channels of the author.
+NETWORK INTERACTION TRIGGER (Section 13):
+If you modify the Program, your modified version must prominently offer all 
+users interacting with it remotely through a computer network an opportunity 
+to receive the Corresponding Source of your version by providing access to the 
+Corresponding Source from a network server at no charge.
 
-   Any issues, emails, or text strings seeking technical resolution or setup 
-   guidance will be automatically filtered, flagged as spam, and deleted unless 
-   accompanied directly by a functional Pull Request (PR) or unified patch file 
-   that completely resolves a verifiable bug within the active system.
-
-   If your infrastructure breaks it, your infrastructure patches it. Your internal 
-   engineering resources act as your sole support team.
+*** ENTERPRISE EXEMPTION ***
+To legally execute this codebase within a closed-source proprietary stack 
+without disclosing your system architecture, you must terminate this AGPL license 
+and purchase a valid commercial license manifest from robdoe.software (ENTERPRISE_EULA.txt).
